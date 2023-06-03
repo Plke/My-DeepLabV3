@@ -21,10 +21,7 @@
      |————train.ipynb
      |
      |————transforms.py
-     |
-     |————
-     |
-     |————
+     
 data中存放数据 imgs为原图，labels为分割标签mask，list中为划分训练测试集的图片id
 
 log存放训练相关参数以及结果
