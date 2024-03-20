@@ -2,20 +2,20 @@
 
 ## 项目目录结构
 
-My-DeepLabV3
-├── data
-│   ├── imgs
-│   ├── labels
-│   └── list
-├── log
-├── model
-├── dataset.py
-├── get_segmentation.ipynb
-├── helpfun.py
-├── requirements.txt
-├── train.ipynb
-└── transforms.py
-     
+- My-DeepLabV3
+  - data
+    - imgs
+    - labels
+    - list
+  - log
+  - model
+  - dataset.py
+  - get_segmentation.ipynb
+  - helpfun.py
+  - requirements.txt
+  - train.ipynb
+  - transforms.py
+  - 
 
 ### 详细说明
 
